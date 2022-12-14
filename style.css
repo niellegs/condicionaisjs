@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-    background-color: #a6a7ff;
+    background-color: #8f91fc;
 }
 
 #title {
@@ -60,13 +60,15 @@ ul {
 }
 
 footer {
-    background-color: #a6a7ff;
+    background-color: #8f91fc;
     color: #EEF1FF;
-
+    height: 200px;
+    width: auto;
 }
 
 #ul-footer {
     display: block;
+    padding-top: 35px;
 }
 
 a {
@@ -74,8 +76,17 @@ a {
     color: #EEF1FF;
 }
 
+a:hover {
+    color:#191dff;
+}
+
 #main {
     width: auto;
     height: 600px;
     background-color: #B1B2FF;
+}
+
+.git-logo {
+    height: 20px;
+    width: auto;
 }
