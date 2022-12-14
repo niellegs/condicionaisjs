@@ -1,0 +1,81 @@
+body {
+    background-color: #B1B2FF;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+nav {
+    background-color: #a6a7ff;
+}
+
+#title {
+    padding-top: 15px;
+    padding-left: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+#play {
+    background-color: #B1B2FF;
+    color: #B1B2FF;
+    width: 500px;
+    height: 500px;
+}
+
+#play-button {
+    background-color: #B1B2FF;
+    border-color: #B1B2FF;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border: 0;
+}
+
+#logo {
+    height: 50px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-flex
+}
+
+#button-title {
+    color: white;
+    font-weight: 100;
+    font-size: 25px;
+    margin: auto;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+
+#button {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+    align-content: center;
+}
+
+footer {
+    background-color: #a6a7ff;
+    color: #EEF1FF;
+
+}
+
+#ul-footer {
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #EEF1FF;
+}
+
+#main {
+    width: auto;
+    height: 600px;
+    background-color: #B1B2FF;
+}
